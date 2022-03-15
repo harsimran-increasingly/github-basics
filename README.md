@@ -1,6 +1,27 @@
 # github-basics
 Testing Github Workflow
 
+# Introduction
+
+To learn basics of GitHub essentials like repositories, branches, commits, and pull requests. Please follow any of the follwing resources
+
+- Official GitHub Docs [Github](https://docs.github.com/en/get-started/quickstart/hello-world)
+- Git in 15 Min [Youtube](https://www.youtube.com/watch?v=USjZcfj8yxE).
+- Git & GitHub Essentials [Youtube](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- Git CheatSheet [Website](https://training.github.com/downloads/github-git-cheat-sheet/)
+
+<div style='margin-top:2rem'></div>
+
+# Getting Started
+
+Let's get your account ready and authorized
+1. Login/Access via @increasingly account. if you joined by your personal account please exit the github organization and join in via company account
+2. Once Logged in create a personal access token for you  account [Check It Here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). This is a system level password for accesing repos which is different than your GitHub Account password
+3. If you are on windows use GitBash terminal [Check It Here](https://git-scm.com/downloads)
+4. Create a SSH key for your system [Check It Here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). This will help you with making git operations faster as you don't need to put your personal access token everytime.  Please make sure for this to work while cloning your repo you select SSH
+
+
+<div style='margin-top:2rem'></div>
 
 1. Clone the repo
 2. Move/Checkout to develop branch
