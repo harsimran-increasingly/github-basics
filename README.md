@@ -23,6 +23,8 @@ Let's get your account ready and authorized
 
 <div style='margin-top:2rem'></div>
 
+# Task
+
 1. Clone the repo
 2. Move/Checkout to develop branch
 3. Create your own branch name user/your_name
